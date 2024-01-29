@@ -1,0 +1,1 @@
+I here by agree to [Spryker's CLA](https://github.com/gerner-spryker2/test3/commit/f600be42a43b77f195a476def5a543cb43271a0e).
